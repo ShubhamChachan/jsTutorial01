@@ -5,6 +5,7 @@ const mixed = ['str', 89, [3, 5]];
     const fruits = ['orange', 'grapes', 'mangoes'];
 console.log(fruits)
 const marks = [1, 2, 3, 4, 5];
+console.log(marks.length)
 console.log(marks)
 const arr= new Array(1, 2, 3, 'Apple')
 console.log(arr);
@@ -123,5 +124,6 @@ function sort(a, b, c) {
 }
 
 sort(3,2,1);
-console.log('sort', sort(a, b, c))
-console.log("shubham chachan")
+
+document.write("CHACHAN ENGINNERING SOLUTIONS")
+console.assert(4==6)
